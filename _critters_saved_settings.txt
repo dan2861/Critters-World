@@ -1,0 +1,20 @@
+#CPSC112 Critters saved settings
+#Fri Aug 05 05:13:02 EDT 2022
+Cobra=false
+Snake=false
+Ant=true
+Bird=false
+Hippo=false
+Vulture=true
+FireAnt=false
+Cougar=false
+Stone=false
+Octopus=false
+Secure\ tournament\ mode=true
+Debug\ output=false
+Hipster=false
+Mouse=false
+Height=50
+Number\ of\ each\ critter=30
+Network\ features=true
+Width=50

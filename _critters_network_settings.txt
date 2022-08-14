@@ -1,0 +1,6 @@
+#CPSC112 Critters saved network settings
+#Fri Aug 05 05:56:15 EDT 2022
+fps=61
+backgroundColors=false
+lastHostName=
+accept=ask
